@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Forklift Project by Hannah
+permalink: /projects/forklift/
 ---
 
 ## Forklift Project
