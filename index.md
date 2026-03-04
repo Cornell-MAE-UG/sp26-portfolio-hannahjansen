@@ -11,7 +11,7 @@ title: <Hannah Jansen>
  
 My name is Hannah and I am a freshman from Cornell and this is my forklift portfolio project. 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="projects/">my projects</a> and <a href="cv/">CV</a>.
 ## Forklift Project
 
 ![Forklift Image 1](https://raw.githubusercontent.com/hannahjansen/portfolio-images/main/forkliftimg1.jpeg)
