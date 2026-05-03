@@ -13,6 +13,6 @@ This project analyzes the geometry and usability of a nutcracker mechanism for a
 
 ![Image 3](https://github.com/hannahjansen/portfolio-images/blob/main/forkliftimg3.jpeg?raw=true)
 
-![Image 4](https://raw.githubusercontent.com/hannahjansen/portfolio-images/main/forklifting4.jpeg)
+![Image 3](https://github.com/hannahjansen/portfolio-images/blob/main/forkliftimg4.jpeg?raw=true)
 
-![Image 5](https://raw.githubusercontent.com/hannahjansen/portfolio-images/main/forklifting5.jpeg)
+![Image 3](https://github.com/hannahjansen/portfolio-images/blob/main/forkliftimg5.jpeg?raw=true)
